@@ -10,6 +10,7 @@ namespace Poo_Estructura
             AlumnoServicio alumnoServicio = new AlumnoServicio();
             var res = alumnoServicio.Agregar();
             alumnoServicio.Imprimir(res);
+            //la queso
         }
     }
 }
